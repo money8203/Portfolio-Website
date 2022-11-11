@@ -46,7 +46,11 @@ Now you are good to go and make changes
 
 ### Step 1 - STRUCTURE
 
-Go to `index.html` and put your information, there are 5 sections:                                            
+Go to `index.html` and put your information, there are 5 sections:     
+
+<h2 align="center">
+  <img src = "https://github.com/money8203/TJ-Tasks-2022-MANISH_TYAGI/blob/main/Screenshot%20(72).png?raw=true" width = "500" />
+</h2>
 
 For navbar -
 ```html
@@ -71,6 +75,7 @@ For navbar -
     <!-- /END Hero Section -->
 
 ```
+---
 
 ### (1) Home Section
 
@@ -96,6 +101,7 @@ For navbar -
     </section>
 <!-- /END Hero Section -->
 ```
+---
 
 ### (2) About Section
 
@@ -128,6 +134,7 @@ For navbar -
 
 <!-- /END About Section -->
 ```
+---
 
 ### (3) Skills Section
 
@@ -189,6 +196,7 @@ For navbar -
         </div>
     </section>
 ```
+---
 
 ### (4) Contact Section
 
@@ -261,6 +269,7 @@ For navbar -
     </section>
 <!-- /END Contact Section -->
 ```
+---
 
 ### (5) Footer Section
 
@@ -275,14 +284,17 @@ For navbar -
   ...
 </footer>
 ```
+---
 
 ### Step 2 - STYLES
 
-Change the color theme of the website - (choose 2 colors to create a gradient)
+Change the color theme of the website 
 
-Go to `style.css` and paste the code as it is only change the values with your prefered color.
-If you want to get styled fonts and icons include this 
+Go to `style.css` and copy the code as it is only change the values with your prefered color if you like to add different colors.
 
+<img src="https://github.com/money8203/TJ-Tasks-2022-MANISH_TYAGI/blob/main/Screenshot%20(71).png?raw=true" width = "500" align = "center"/>
+
+- If you want to code your style yourself the check this out it contains some amazing fonts and styles 
 ```scss
 /*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
@@ -295,6 +307,7 @@ If you want to get styled fonts and icons include this
 - To put the website in action and make it responsive we need to add some javascript to it 
 
 ```js
+<!-- Javascript starts -->
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
@@ -368,15 +381,15 @@ $(document).ready(function(){
         }
     });
 });
-
 ```
+
 
 
 ## Deployment 📦
 
 Once you finish your setup. You need to put your website online!
 
-You can use [Netlify](https://netlify.com) or can deploy it on github
+You can use [Netlify](https://netlify.com) or can deploy it on [github](https://github.com) itself
 
 ## Technologies used 🛠️
 
