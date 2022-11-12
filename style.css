@@ -528,6 +528,31 @@ footer span a:hover{
         margin-bottom: 35px;
     }
 }
+.socialMediaIcons {
+    position:absolute;
+    bottom: 60px;
+    left: 10%;
+}
+.socialMediaIcons a i {
+    font-size: 24px;
+    padding-right: 20px;
+    color: #dedce1;
+    transition: 0.4s;
+}
+.socialMediaIcons a i:hover {
+    color:deepskyblue;
+    transform: scale(1.2);
+}
+.socialMediaIcons a i {
+    font-size: 24px;
+    padding-right: 20px;
+    color: #dedce1;
+    transition: 0.4s;
+}
+.socialMediaIcons a i:hover {
+    color:deepskyblue;
+    transform: scale(1.2);
+}
 
 @media (max-width: 690px) {
     .max-width{
