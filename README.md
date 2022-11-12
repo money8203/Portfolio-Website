@@ -7,7 +7,7 @@
 ⚡️ Valid HTML5, CSS3 & Js                                                                                
 ⚡️ Well organized documentation
 
-To view the portfolio: **[click here](http://127.0.0.1:3004/index.html)**
+To view the portfolio: **[click here](http://money8203.github.io)**
 
 ---
 ## Why do you need a portfolio? 
