@@ -52,7 +52,7 @@ This portfolio website is built using
 - CSS3
 - JavaScript 
 
- # Note : 
+ # Note
   This project is designed to be easy to customize and extend. Feel free to play around with the code and create a website that truly represents you! If you have any questions or need help with the setup, please open an issue in this repository."
 
 ## License 📄
