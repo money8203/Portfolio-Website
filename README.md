@@ -1,5 +1,5 @@
 # PORTFOLIO WEBSITE
-"Welcome to my Portfolio Website repository! This project is a template for creating your own personal portfolio website, showcasing your skills, experiences, and projects.
+"Welcome to the Portfolio Website repository! This project is a template for creating your own personal portfolio website, showcasing your skills, experiences, and projects.
 
 ## Features
 
